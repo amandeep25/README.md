@@ -2,7 +2,8 @@
 ![This](https://github.com/amandeep25/README.md/blob/main/bonjour.png)
 
 
-# I am Amandeep :smiley:
+# Hey! I'm Amandeep 
+:smiley:
 
 
 
