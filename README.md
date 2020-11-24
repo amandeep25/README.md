@@ -2,7 +2,8 @@
 
 
 
-# Bonjour! I'm <a href="http://website-amandeep.000webhostapp.com/" > Amandeep </a> :smiley:
+# Bonjour! :wave:
+# I'm <a href="http://website-amandeep.000webhostapp.com/" > Amandeep </a>
 
 <a href="https://mail.google.com/mail/u/0/?tab=wm#inbox" rel="some text">![This](https://github.com/amandeep25/README.md/blob/main/Gmail-logo%20(1)%20(1).jpg)</a>
 <a href="https://www.instagram.com/aman.ka__ur/" rel="some text">![This](https://github.com/amandeep25/README.md/blob/main/insta%20(1).jpg)</a>
@@ -21,18 +22,28 @@
 That’s the reason I love sharing my experiences. Also, forgot to mention I love teaching subjects in which I have good knowledge :)
 - I have been an active leader in various professional development societies such as the ACM student chapter. I organized multiple technical events to foster collaboration in learning in youth and am always open to Collaborations!
 
-![This]https://forthebadge.com/images/badges/powered-by-electricity.svg
-https://forthebadge.com/images/badges/0-percent-optimized.svg
-https://forthebadge.com/images/badges/ages-20-30.svg
-https://forthebadge.com/images/badges/built-with-science.svg
-https://forthebadge.com/images/badges/check-it-out.svg
-https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg
-https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg
-https://forthebadge.com/images/badges/made-with-python.svg
-https://forthebadge.com/images/badges/powered-by-coffee.svg
-https://forthebadge.com/images/badges/powered-by-netflix.svg
-https://forthebadge.com/images/badges/powered-by-responsibility.svg
-https://forthebadge.com/images/badges/uses-brains.svg
-https://forthebadge.com/images/badges/uses-css.svg
-https://forthebadge.com/images/badges/uses-html.svg
-https://forthebadge.com/images/badges/uses-git.svg
+
+
+# Now-a-days 
+- Apprendre le français
+- Researching on latest technological advancements in various domains like security, medical imaging, IoT.
+- Surviving the 5th Semester :relieved:
+- Attending inspiring sessions from eminent professors and industry experts and broadening my learning horizon.
+
+
+# Honors & Awards 🏅
+- Global Award Nominee, Delhi Location 
+NASA Apps Space Challenge
+Samsarah- A Virtual Museum Depicting the Marvelous History of Mother Earth.
+Our project is a very fun and intriguing virtual museum, which showcases the digital history of the earth, from its inception to its present, in an extremely captivating way! This project is a Virtual Reality Application, developed using Unity.
+
+- Best Award Category - ML Based Approach
+My team won "Runners Up" in the Best Award Category - ML-based approach in the ACM Student Chapter - IGDTUW (Indira Gandhi Delhi Technical University for Women) Summer workshop 2020.
+
+- GENERAL PROFICIENCY
+2nd/200 Grade 12 High School All India Board Exam with 9.3 GPA.
+2nd Science Topper in School
+
+
+# Wanna know more? 
+Checkout my website <a href = "http://website-amandeep.000webhostapp.com/"> here </a> for recent activities I have been doing and for certifications <a href = "https://www.linkedin.com/in/amandeep-kaur-81b677183/"> LinkedIn </a> is my escape.
