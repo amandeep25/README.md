@@ -27,8 +27,9 @@ That’s the reason I love sharing my experiences. Also, forgot to mention I lov
 # Now-a-days 
 - Apprendre le français
 - Researching on latest technological advancements in various domains like security, medical imaging, IoT.
-- Surviving the 5th Semester :relieved:
+- Learning interesting subjects as part of my 6th Semester -> Cloud Computing, Artificial Intelligence, Network Programming :relieved:
 - Attending inspiring sessions from eminent professors and industry experts and broadening my learning horizon.
+- Delivering and hosting sessions under and with faculty members :) 
 
 
 # Honors & Awards 🏅
